@@ -16,12 +16,15 @@
 body {
     background-color: var(--bg-color);
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 h1 {
-    color: var(--red);
+    color: var(--purple);
+    font-size: 8em;
 }
 
 p {
-    color: var(--green);
+    color: var(--orange);
+    font-size: 2em;
 }
