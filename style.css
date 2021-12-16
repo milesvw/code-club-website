@@ -12,3 +12,16 @@
     --red: #ff5555;
     --yellow: #f1fa8c;
 }
+
+body {
+    background-color: var(--bg-color);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: var(--red);
+}
+
+p {
+    color: var(--green);
+}
