@@ -30,7 +30,6 @@ h1 {
 }
 
 p {
-    margin: 0;
     color: var(--orange);
     font-size: 2em;
 }
@@ -52,4 +51,5 @@ p {
     place-items: center;
     margin: 0;
     padding: 0;
+    bottom: 2.5em;
 }
