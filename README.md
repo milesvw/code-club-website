@@ -14,3 +14,6 @@ You can use git with a GUI through your IDE, however it is *highly* recomended t
 
 If you have trouble remembering all the commands, this reference sheet may be of help: https://overapi.com/git
 If you have any trouble, can ask for help in the Discord server or email me. Thanks for helping out and have fun!
+
+## One more thing...
+If you want to share your edits of a website quickly to get feedback, you can temporarily host the site for free using Cloudflare like this: https://youtu.be/SlBOpNLFUC0
