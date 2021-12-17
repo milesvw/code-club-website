@@ -25,9 +25,12 @@ h1 {
     margin: 0;
     color: var(--cyan);
     font-size: 8em;
+    position: absolute;
+    bottom: 2.5em;
 }
 
 p {
+    margin: 0;
     color: var(--orange);
     font-size: 2em;
 }
@@ -42,4 +45,11 @@ p {
 
 .layer1 {
     background-image: url('./top-wave.svg');
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    margin: 0;
+    padding: 0;
 }
