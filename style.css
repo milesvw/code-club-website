@@ -14,17 +14,32 @@
 }
 
 body {
-    background-color: var(--bg-color);
+    margin: 0;
+    color: var(--fg);
+    background: var(--bg-color);
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
 h1 {
-    color: var(--purple);
+    margin: 0;
+    color: var(--cyan);
     font-size: 8em;
 }
 
 p {
     color: var(--orange);
     font-size: 2em;
+}
+
+.spacer {
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer1 {
+    background-image: url('./top-wave.svg');
 }
