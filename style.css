@@ -32,6 +32,8 @@ h1 {
 p {
     color: var(--orange);
     font-size: 2em;
+    position: absolute;
+    bottom: 7em;
 }
 
 .spacer {
@@ -52,4 +54,15 @@ p {
     margin: 0;
     padding: 0;
     bottom: 2.5em;
+}
+
+@media (max-width: 685px) {
+    h1 {
+        font-size: 4em;
+        bottom: 7em;
+    }
+    p {
+        font-size: 1em;
+        bottom: 6em;
+    }
 }
