@@ -1,4 +1,4 @@
-# How to contribute to the site:
+# How to contribute:
 If you are a member of the Thomas Edison High School CODE club and would like to contribute to this collaborative project, learn how to help here. 
 
 ## Get access
